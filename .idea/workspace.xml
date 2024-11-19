@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cb2adef-e805-4c1c-ad04-0b3fdef46e58" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7cb2adef-e805-4c1c-ad04-0b3fdef46e58" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731828253632</updated>
       <workItem from="1731828254731" duration="15062000" />
-      <workItem from="1732024995639" duration="305000" />
+      <workItem from="1732024995639" duration="1095000" />
     </task>
     <task id="LOCAL-00001" summary="- verify repository">
       <option name="closed" value="true" />
@@ -93,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731828451830</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="design pattern homework">
+      <option name="closed" value="true" />
+      <created>1732025441238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732025441238</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,7 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="- verify repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="- verify repository" />
+    <MESSAGE value="design pattern homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="design pattern homework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
